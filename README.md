@@ -19,4 +19,7 @@
 
 ```
 <br/>
-[轻量级，获取位置信息，城市，经纬度，错误，一个Block解决](https://github.com/AlicksCoder/HCLocationManager)
+###其他轻量级轮子<br/>
+[轻量级，一个Block解决 获取位置信息，城市，经纬度，错误，](https://github.com/AlicksCoder/HCLocationManager)<br/>
+<br/>
+[一行代码轻松搞定 Label 的文字高度自适应。](https://github.com/AlicksCoder/HCStringSize)<br/>
